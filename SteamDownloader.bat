@@ -2,11 +2,13 @@
 
 :setup
 echo Steam Workshop Downloader by Rillis.
+echo if is it the first time running the steamcmd may update.
 echo.
 echo. 
 set /p appid="Please enter the APP ID: "
 cls
 echo Steam Workshop Downloader by Rillis.
+echo if is it the first time running the steamcmd may update.
 echo.
 echo. 
 echo APP_ID: %appid%
@@ -14,6 +16,7 @@ echo.
 set /p pid="Now, please enter the Product ID: "
 cls
 echo Steam Workshop Downloader by Rillis.
+echo if is it the first time running the steamcmd may update.
 echo.
 echo. 
 echo APP_ID: %appid%
